@@ -2,7 +2,6 @@ package com.example.kemila.room.model;
 
 import com.example.kemila.room.App;
 import com.example.kemila.room.Dao.NamesDao;
-import com.example.kemila.room.Db;
 
 import java.util.List;
 

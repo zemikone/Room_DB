@@ -1,6 +1,5 @@
 package com.example.kemila.room;
 
-import android.arch.persistence.room.Room;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;

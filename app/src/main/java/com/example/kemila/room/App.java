@@ -1,14 +1,9 @@
 package com.example.kemila.room;
 
 import android.app.Application;
-import android.arch.persistence.room.Database;
 import android.arch.persistence.room.Room;
-import android.content.Context;
 
 import com.facebook.stetho.Stetho;
-import com.facebook.stetho.okhttp3.StethoInterceptor;
-
-import okhttp3.OkHttpClient;
 
 public class App extends Application {
     public static App INSTANCE;
