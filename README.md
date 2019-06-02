@@ -7,3 +7,5 @@ Dao.java - Keep all queries here
 Entity/Model Classes - Create Entity(Table) Ex- @Entity  
 Repository - Call Insert,Retrive Data methods from repository instead of UI  
 Home/Fragment - Call methods in the Repository to save or retrive data  
+
+inspect - chrome://inspect/#devices
