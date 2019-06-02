@@ -21,7 +21,7 @@ public interface NamesDao {
     @Insert
     void insertMultipleNames(List<Names> nameList);
 
-//    @Query("SELECT * FROM Names WHERE name_id = sent_id")
+//    @Query("SELECT * FROM Names WHERE name_id = :sent_id")
 //    Names getNameById (int send_id);
 
     @Query("SELECT * FROM Names")
